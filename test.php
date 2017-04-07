@@ -7,3 +7,4 @@ echo $hello->hello();
 echo "\n";
 $hiGirl = new FreeWil\Demo\Hello('My Goddess');
 echo $hiGirl->hello();
+echo "\n";

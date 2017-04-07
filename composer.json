@@ -1,5 +1,7 @@
 {
     "name": "chowhwei/freewil",
+    "description": "this is a hello world repo for composer.",
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
@@ -7,5 +9,8 @@
             "email": "chowhwei@gmail.com"
         }
     ],
+    "autoload": {
+            "psr-4": {"FreeWil\\Demo\\": "src"}
+    },
     "require": {}
 }

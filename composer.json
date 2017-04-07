@@ -1,0 +1,11 @@
+{
+    "name": "chowhwei/freewil",
+    "type": "library",
+    "authors": [
+        {
+            "name": "chowhwei",
+            "email": "chowhwei@gmail.com"
+        }
+    ],
+    "require": {}
+}

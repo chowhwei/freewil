@@ -1,5 +1,5 @@
 <?php
-namespace FreeWil\Demo;
+namespace Chowhwei\FreeWil\Demo;
 
 class Hello
 {

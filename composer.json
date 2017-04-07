@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-            "psr-4": {"FreeWil\\Demo\\": "src"}
+            "psr-4": {"Chowhwei\\FreeWil\\Demo\\": "src"}
     },
     "require": {}
 }

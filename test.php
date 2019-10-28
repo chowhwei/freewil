@@ -8,3 +8,5 @@ echo "\n";
 $hiGirl = new Chowhwei\FreeWil\Demo\Hello('My Goddess');
 echo $hiGirl->hello();
 echo "\n";
+
+echo $hiGirl->getName();
